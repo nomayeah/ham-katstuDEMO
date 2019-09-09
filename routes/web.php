@@ -19,6 +19,8 @@ Route::get('/laravel', function() {
     return view('laravel.index');
 });
 
+
+Route::get('/laravel/t0', function() { return view('laravel.t0'); });
 Route::get('/laravel/t1', function() { return view('laravel.t1'); });
 Route::get('/laravel/t2', function() { return view('laravel.t2'); });
 Route::get('/laravel/t3', function() { return view('laravel.t3'); });
