@@ -11,6 +11,7 @@
 <h1>ららべる　ちゅーとりある</h1>
   <article>
     <ul>
+      <li><a href="/laravel/t0" target="_blank" rel="noopener noreferrer">t0</a></li>
       <li><a href="/laravel/t1" target="_blank" rel="noopener noreferrer">t1</a></li>
       <li><a href="/laravel/t2" target="_blank" rel="noopener noreferrer">t2</a></li>
       <li><a href="/laravel/t3" target="_blank" rel="noopener noreferrer">t3</a></li>
